@@ -1,4 +1,4 @@
 # Gatsby
 Gatsby Study
 
-Gatsby Blog를 만들기 위한 
+Gatsby Blog를 만들기 위한 공부
